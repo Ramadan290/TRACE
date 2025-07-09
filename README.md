@@ -99,11 +99,6 @@ pip install -r requirements.txt
 - `benefit_to_cost_ratio.ipynb`
 - `Performance_Prediciton.ipynb`
 
-Or use prediction scripts:
-```bash
-python scripts/predict.py --model models/attrition_model.h5 --input sample_input.json
-```
-
 
 ## Credits
 
